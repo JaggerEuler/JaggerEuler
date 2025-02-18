@@ -14,14 +14,14 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Project                                       |      Project write-up      |
 |-----------------------------------------------|----------------------------|
-| Active directory with SIEM implementation       | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Configuring Pfsense firewall                    | SOC Automation Lab|
-| Placeholder                                     | SOC Automation Lab|
-| Placeholder                                     | SOC Automation Lab|
-| Placeholder                                     | SOC Automation Lab|
+| Active directory with SIEM implementation       | <a href="(https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation)"|
+| Placeholder                                     | <a href="https://google.com">Detection Lab</a>|
+| Configuring Pfsense firewall                    | <a href="https://google.com">Detection Lab</a>|
+| Placeholder                                     | <a href="https://google.com">Detection Lab</a>|
+| Placeholder                                     | <a href="https://google.com">Detection Lab</a>|
+| Placeholder                                     | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
