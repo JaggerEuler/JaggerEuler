@@ -52,3 +52,4 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 ## Projects
 - Configure a virtual active directory environment, implement SPLUNK, and generate telemetry.
 - Configure and set up basic rules on the Pfsense firewall in a virtual environment.
+- Use MS Azure to create a VM and then link that VM to Sentinel for ingestion.
