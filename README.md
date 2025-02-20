@@ -17,7 +17,7 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 | Project                                       |      Project write-up      |
 |-----------------------------------------------|----------------------------|
 | Active directory with SIEM implementation       | <a href="https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation">AD with SIEM</a>|
-| Azure VM and Sentinel                           | <a href="https://google.com">Detection Lab</a>|
+| Azure VM and Sentinel                           | <a href="https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM">Azure VM and Sentinel</a>|
 | Configuring Pfsense firewall                    | <a href="https://github.com/JaggerEuler/Pfsense-Configuration">pfSense</a>|
 | Placeholder                                     ||
 | Placeholder                                     ||
