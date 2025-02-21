@@ -8,11 +8,10 @@ I also hold a bachelor's degree in recording arts.
 ## Objective
 
 
-Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU, which helped me realize that my goal is to be on the blue team side of things. I am now eager to transition into the field and continue learning as much as possible.
+Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to make a career path change officially. I learned a lot of valuable information and gained important experience at WGU, which helped me realize that my goal is to be on the blue team side of things. I am now eager to transition into the field and continue learning as much as possible.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Project                                       |      Project write-up      |
 |-----------------------------------------------|----------------------------|
