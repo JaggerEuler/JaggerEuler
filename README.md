@@ -7,7 +7,6 @@ I also hold a bachelor's degree in recording arts.
 
 ## Objective
 
-
 Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to make a career path change officially. I learned a lot of valuable information and gained important experience at WGU, which helped me realize that my goal is to be on the blue team side of things. I am now eager to transition into the field and continue learning as much as possible.
 
 
@@ -23,15 +22,19 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 | Placeholder                                     ||
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
-### Endpoint
+    
+
+### Virtual
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 ### SIEM
 <div>
@@ -45,6 +48,7 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-SSCP%20Associate-00AAFF?&style=for-the-badge&logo="ISC"²&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Project%2B-E32F29?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
