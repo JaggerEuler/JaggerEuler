@@ -6,7 +6,7 @@ I am a graduate of Western Governors University with a bachelor's degree in Cybe
 
 ## Objective
 
-Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase the projects I have completed that have further increased my knowledge and experience.
+Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase my completed projects that have further increased my knowledge and experience.
 
 
 ## Projects
@@ -50,8 +50,10 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 </div>
 
 ## Additional Skills
--Virtualization: My current home lab is using Virtualbox as the hypervisor to host all of my machines
--Network Configuration: Configuring IP addresses and DNS for the virtual machines
--Active Directory Setup: Using a Windows Server 2019 machine as the AD Controller and adding my two Windows and one Ubuntu machine to the domain
--Active Directory Security: Give the two Windows machine users proper access controls for their roles. Install Splunk on the Ubuntu machine
--Firewall: Install pFsense firewall and create basic rules for this virtual environment
+
+<div>
+- Virtualization: My current home lab is using Virtualbox as the hypervisor to host all of my machines
+- Network Configuration: Configuring IP addresses and DNS for the virtual machines
+- Ac tive Directory Setup: Using a Windows Server 2019 machine as the AD Controller and adding my two Windows and one Ubuntu machine to the domain
+- Active Directory Security: Give the two Windows machine users proper access controls for their roles. Install Splunk on the Ubuntu machine
+- Firewall: Install pFsense firewall and create basic rules for this virtual environment
