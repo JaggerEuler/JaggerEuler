@@ -1,16 +1,15 @@
 # Hello, I'm Jagger Euler
 <a href="https://www.linkedin.com/in/jaggereuler/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a graduate of Western Governors University with a bachelor's degree in Cybersecurity and Information assurance.
+I am a graduate of Western Governors University with a bachelor's degree in Cybersecurity and Information assurance. I also hold a bachelor's degree in recording arts from Full Sail University. I am interested in becoming a security analyst and being in a role on the blue team. I want to learn as much as possible, so I have taken it upon myself to learn from some projects. Below, you will find writeups on projects I have completed.
 
-I also hold a bachelor's degree in recording arts.
 
 ## Objective
 
-Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to make a career path change officially. I learned a lot of valuable information and gained important experience at WGU, which helped me realize that my goal is to be on the blue team side of things. I am now eager to transition into the field and continue learning as much as possible.
+Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase the projects I have completed that have further increased my knowledge and experience.
 
 
-## Skills
+## Projects
 
 | Project                                       |      Project write-up      |
 |-----------------------------------------------|----------------------------|
@@ -50,7 +49,9 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 
 </div>
 
-## Projects
-- Configure a virtual active directory environment, implement SPLUNK, and generate telemetry.
-- Configure and set up basic rules on the Pfsense firewall in a virtual environment.
-- Use MS Azure to create a VM and then link that VM to Sentinel for ingestion.
+## Additional Skills
+Virtualization: My current home lab is using Virtualbox as the hypervisor to host all of my machines
+Network Configuration: Configuring IP addresses and DNS for the virtual machines
+Active Directory Setup: Using a Windows Server 2019 machine as the AD Controller and adding my two Windows and one Ubuntu machine to the domain
+Active Directory Security: Give the two Windows machine users proper access controls for their roles. Install Splunk on the Ubuntu machine
+Firewall: Install pFsense firewall and create basic rules for this virtual environment
