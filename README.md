@@ -50,8 +50,8 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 </div>
 
 ## Additional Skills
-Virtualization: My current home lab is using Virtualbox as the hypervisor to host all of my machines
-Network Configuration: Configuring IP addresses and DNS for the virtual machines
-Active Directory Setup: Using a Windows Server 2019 machine as the AD Controller and adding my two Windows and one Ubuntu machine to the domain
-Active Directory Security: Give the two Windows machine users proper access controls for their roles. Install Splunk on the Ubuntu machine
-Firewall: Install pFsense firewall and create basic rules for this virtual environment
+-Virtualization: My current home lab is using Virtualbox as the hypervisor to host all of my machines
+-Network Configuration: Configuring IP addresses and DNS for the virtual machines
+-Active Directory Setup: Using a Windows Server 2019 machine as the AD Controller and adding my two Windows and one Ubuntu machine to the domain
+-Active Directory Security: Give the two Windows machine users proper access controls for their roles. Install Splunk on the Ubuntu machine
+-Firewall: Install pFsense firewall and create basic rules for this virtual environment
