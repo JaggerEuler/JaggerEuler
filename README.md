@@ -51,7 +51,6 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 
 ## Additional Skills
 
-<div>
 - Virtualization: My current home lab uses Virtualbox as the hypervisor to host all my machines.
     
 - Network Configuration: Configuring IP addresses and DNS for the virtual machines.
