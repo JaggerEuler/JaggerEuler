@@ -1,12 +1,12 @@
 # Hello, I'm Jagger Euler
-<a href="https://www.linkedin.com/in/jaggereuler/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a graduate of Western Governors University with a bachelor's degree in Cybersecurity and Information assurance. I also hold a bachelor's degree in recording arts from Full Sail University. I am interested in becoming a security analyst and being in a role on the blue team. I want to learn as much as possible, so I have taken it upon myself to learn from some projects. Below, you will find writeups on projects I have completed.
 
+<a href="https://www.linkedin.com/in/jaggereuler/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT as a whole and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase my completed projects that have further increased my knowledge and experience.
+Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT and decided to enroll at WGU to make a career path change officially. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase my completed projects that have further increased my knowledge and experience.
 
 
 ## Projects
@@ -16,9 +16,7 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 | Active directory with SIEM implementation       | <a href="https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation">AD with SIEM</a>|
 | Azure VM and Sentinel                           | <a href="https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM">Azure VM and Sentinel</a>|
 | Configuring Pfsense firewall                    | <a href="https://github.com/JaggerEuler/Pfsense-Configuration">pfSense</a>|
-| Placeholder                                     ||
-| Placeholder                                     ||
-| Placeholder                                     ||
+
 
 ## Tools
 
