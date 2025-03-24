@@ -6,7 +6,7 @@ I am a graduate of Western Governors University with a bachelor's degree in Cybe
 
 ## Objective
 
-Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT and decided to enroll at WGU to make a career path change officially. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase my completed projects that have further increased my knowledge and experience.
+Cybersecurity is a field that was introduced to me by my father and friends around 2022. I had been around computers and technology but was unfamiliar with cybersecurity as a possible career path. I did some self-study on cybersecurity and IT and decided to enroll at WGU to officially make a career path change. I learned a lot of valuable information and gained important experience at WGU. This page aims to showcase my completed projects that have further increased my knowledge and experience.
 
 
 ## Projects
@@ -23,8 +23,13 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 
+### Scanner
+<div>
+    <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Scanner-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+
+    
 ### Virtual
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
