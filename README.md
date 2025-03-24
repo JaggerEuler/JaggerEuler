@@ -16,7 +16,7 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 | Active directory with SIEM implementation       | <a href="https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation">AD with SIEM</a>|
 | Azure VM and Sentinel                           | <a href="https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM">Azure VM and Sentinel</a>|
 | Configuring Pfsense firewall                    | <a href="https://github.com/JaggerEuler/Pfsense-Configuration">pfSense</a>|
-
+| Qualys Vulnerability Scan                       | <a href="">pfSense</a>|
 
 ## Tools
 
