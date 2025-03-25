@@ -17,7 +17,7 @@ Cybersecurity is a field that was introduced to me by my father and friends arou
 | Azure VM and Sentinel                           | <a href="https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM">Azure VM and Sentinel</a>|
 | Configuring Pfsense firewall                    | <a href="https://github.com/JaggerEuler/Pfsense-Configuration">pfSense</a>|
 | Qualys Vulnerability Scan                       | <a href="https://github.com/JaggerEuler/Qualys-Vulnerability-Scan">Qualys Vulnerability Scan</a>|
-| Nessus Vulnerability Scan                       | <a href="https://github.com/JaggerEuler/Qualys-Vulnerability-Scan">Nessus Vulnerability Scan</a>|
+| Nessus Vulnerability Scan                       | <a href="https://github.com/JaggerEuler/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scan</a>|
 ## Tools
 
 ### Network
