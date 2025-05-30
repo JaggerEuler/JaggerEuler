@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Infromation+Technology;🔐+Cybersecurity+Professional;🎯+Blue+Team+Enthusiast;🚀+Welcome+to+My+Portfolio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Information+Technology;+Cybersecurity+Professional;+Blue+Team+Enthusiast;+Welcome+to+My+Portfolio!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🧠 Jagger Euler</h1>
+<h1 align="center"> Jagger Euler</h1>
 <p align="center">
   <em>Cybersecurity & Information Assurance</em>
 </p>
