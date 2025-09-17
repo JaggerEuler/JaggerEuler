@@ -1,57 +1,57 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Information+Technology;+Cybersecurity+Professional;+Blue+Team+Enthusiast;+Welcome+to+My+Portfolio!" alt="Typing SVG" />
-</p>
+# Hi, I'm Jagger Euler 👋  
 
-<h1 align="center"> Jagger Euler</h1>
-<p align="center">
-  <em>Cybersecurity & Information Assurance</em>
-</p>
+💻 **Cybersecurity & IT Professional** | 🔐 Hands-on experience in security monitoring, system administration, and vulnerability management, security tools, etc.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaggereuler/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+I design and implement technical labs that replicate real-world IT and security environments. My projects demonstrate skills in log analysis, incident detection, cloud security, and infrastructure hardening, and more.
 
 ---
 
-## 🎯 Objective
+## 🛠️ Technical Skills  
 
-Aspiring SOC Analyst/ Blue Team defender
-- 🎓 A Bachelor’s in Cybersecurity from **WGU**
-- 🎧 A Bachelor’s in Recording Arts from **Full Sail University**
+**Operating Systems & Administration**  
+![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+Active Directory · Group Policy · DNS/DHCP · VMware · Hyper-V  
 
-I’m passionate about the **blue team**, and below you'll find real-world lab projects I’ve completed to gain hands-on experience.
+**Networking & Security Tools**  
+![pfSense](https://img.shields.io/badge/-pfSense-212121)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/-Nmap-4682B4)  
+Firewalls · Network Traffic Analysis · Vulnerability Assessment (Nessus, Qualys)  
+
+**Cloud & Virtual Environments**  
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)  
+![M365](https://img.shields.io/badge/-Microsoft%20365-0078D4?logo=microsoft&logoColor=white)  
+Azure VM Deployment · Microsoft Sentinel · Splunk SIEM · M365 Administration  
+
+**Security Operations**  
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)  
+![Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D6?logo=microsoft&logoColor=white)  
+Log Analysis & Correlation · Vulnerability Management · OS & Firewall Hardening · Incident Detection & Response  
+
+**Scripting & Automation**  
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white)  
+Basic automation for system administration & monitoring  
 
 ---
 
-## 🛠️ Projects
+## 📂 Featured Projects  
 
-| Project                                       | Write-Up Link |
-|----------------------------------------------|---------------|
-| Active Directory with SIEM Implementation    | [🔗 GitHub Repo](https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation) |
-| Azure VM + Microsoft Sentinel                | [🔗 GitHub Repo](https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM) |
-| pfSense Firewall Configuration               | [🔗 GitHub Repo](https://github.com/JaggerEuler/Pfsense-Configuration) |
-| Qualys Vulnerability Scan                    | [🔗 GitHub Repo](https://github.com/JaggerEuler/Qualys-Vulnerability-Scan) |
-| Nessus Vulnerability Scan                    | [🔗 GitHub Repo](https://github.com/JaggerEuler/Nessus-Vulnerability-Scanning) |
+- **[Active Directory with Splunk Implementation](https://github.com/JaggerEuler/Active-Directory-with-SPLUNK-Implementation)**  
+  Built an Active Directory domain, generated security events, and integrated Splunk for real-time monitoring and attack detection.  
 
----
+- **[Microsoft Azure VM and SIEM](https://github.com/JaggerEuler/MS-Azure-VM-and-SIEM)**  
+  Deployed Azure virtual machines, configured logging, and connected to Microsoft Sentinel for cloud SIEM monitoring.  
 
-## 🧰 Tools & Platforms
+- **[pfSense Configuration](https://github.com/JaggerEuler/Pfsense-Configuration)**  
+  Configured pfSense as a firewall/router with VLANs, NAT, and traffic monitoring to secure a simulated home lab network.  
 
-### 🌐 Networking
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+- **[Qualys Vulnerability Scan](https://github.com/JaggerEuler/Qualys-Vulnerability-Scan)**  
+  Ran enterprise vulnerability scans, analyzed results, and applied remediation strategies for system hardening.  
 
-### 🔍 Scanning
-![Qualys](https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-6C3E2F?&style=for-the-badge&logo=Nessus&logoColor=white)
-
-### 🖥️ Virtualization
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white)
-
-### 📊 SIEM
-![Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+- **[Nessus Vulnerability Scanning](https://github.com/JaggerEuler/Nessus-Vulnerability-Scanning)**  
+  Used Nessus to perform vulnerability assessments, interpret reports, and prioritize remediation steps.  
 
 ---
 
@@ -66,25 +66,12 @@ I’m passionate about the **blue team**, and below you'll find real-world lab p
 
 ---
 
-## 💡 Additional Skills
+## 📌 Next Steps  
+🚧 Currently building out my [GitHub Pages Portfolio](https://jaggereuler.github.io/) (coming soon) where each project will have a dedicated case study page with methodology, screenshots, and key takeaways.  
 
-```bash
-> Virtualization
-• VirtualBox-based home lab
-• Host multiple VMs for AD & SIEM testing
+---
 
-> Network Config
-• IP/DNS setup across virtual environments
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/jaggereuler/)  
+- [GitHub Portfolio](https://github.com/JaggerEuler)  
 
-> AD Setup
-• Windows Server 2019 domain controller
-• User & group permission handling
-
-> Blue Team Ops
-• Installed & configured Splunk on Ubuntu
-• Custom alerting rules for user behavior
-
-> Firewalling
-• pfSense firewall with custom ruleset
-
-  
